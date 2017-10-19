@@ -1,0 +1,5 @@
+googlemaps
+Pillow
+telepot
+datetime
+openpyxl
